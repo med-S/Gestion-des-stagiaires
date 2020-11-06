@@ -15,7 +15,7 @@ A Java Based Desktop Application for Registring &amp; managing internships built
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -25,6 +25,7 @@ A Java Based Desktop Application for Registring & managing internships built in 
     <img src="image/Gestion_des_stagiaires.png" width="100%" height="100%">
   </a>
 </p>
+
 ## Built With
 Java
 <br />
