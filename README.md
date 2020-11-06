@@ -7,7 +7,7 @@ A Java Based Desktop Application for Registring &amp; managing internships built
 <br />
 <p align="center">
   <a href="https://www.medsalhaoui.com">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" width="80" height="80">
   </a>
 </p>
 
@@ -22,7 +22,7 @@ A Java Based Desktop Application for Registring &amp; managing internships built
 ## About The Project
 A Java Based Desktop Application for Registring & managing internships built in Summer Internship training at OCPK (Office chérifien des phosphates à Khouribga - Morocco).
 <p align="center">
-    <img src="images/Gestion_des_stagiaires.png" alt="Logo" width="100%" height="100%">
+    <img src="image/Gestion_des_stagiaires.png" width="100%" height="100%">
   </a>
 </p>
 ### Built With
