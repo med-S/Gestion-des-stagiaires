@@ -25,10 +25,12 @@ A Java Based Desktop Application for Registring & managing internships built in 
     <img src="image/Gestion_des_stagiaires.png" width="100%" height="100%">
   </a>
 </p>
-### Built With
-* [Java]
-* [MySQL]
-* [NetBeans]
+## Built With
+Java
+<br />
+MySQL
+<br />
+NetBeans
 
 <!-- CONTACT -->
 ## Contact
